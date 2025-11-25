@@ -18,8 +18,8 @@ public class operators {
 		System.out.println("OR:"+(a|b));
 		System.out.println("XOR:"+(a^b));
 		System.out.println("Not:"+(~a));
-		System.out.println("left shift:"+(a>>b));
-		System.out.println("right shift:"+(a<<b));
+		System.out.println("left shift:"+(a<<1));
+		System.out.println("right shift:"+(a>>1));
 	}
 	
 
