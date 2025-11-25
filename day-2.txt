@@ -1,0 +1,27 @@
+conditional Statements:
+if condition:
+it is used to check the condition,if condition is true the block of  statements which is present inside the condition.
+if else:
+if the condition is false then the set of statements inside the if condition is not executed for that we can simply use else to getting output.
+LOOPS:
+for loop,while loop,do-while loop.
+Entry controlled loop:while loop.
+Exit controlled loop:do while loop.
+while loop examples:
+cubes,find sum of number,prime numbers,lcm,gcd,amazon .
+do while loop exapmles:
+when you know ni=umber of iterations ex:amazon ads,
+
+nested for loops:
+PATTERNS:
+simple logics to remember:
+for(int i=1;i<=n;i++)
+for(int j=1;j<=n;j++)
+for triangle
+j<=i
+methods():
+without parameters and with parameters:
+withparameters:
+method(parameters);->actual parameters;
+while calling method we must to pass formal parameters
+
