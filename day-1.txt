@@ -1,0 +1,19 @@
+JDK:java development kit
+JRE:java runtime environment
+JVM:java virtual machine,converting of .class file to byte code.
+IDE: Integrate Development 
+compiler& Interpreter
+1.Data types:
+it specify the what type of data has to be store in a variable.
+Byte:only 8 bits;
+Short Int:16bits
+Int:32
+long:64
+Double
+
+2.Variables:
+why variable:
+for future references.
+
+
+
