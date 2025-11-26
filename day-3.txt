@@ -1,1 +1,15 @@
-number systems
+why static is used in main method?
+JVM first checks main method in the program,then whenever we use static keyword no need to create object for that class.
+static key word is used to stop object creation
+Non static class or method must need to create object to execute the program.
+Here object creation is allowed only for classes.
+If we create object for methods then it throws errors.
+number systems:
+1.to check number is prime or not.
+2.palindrome and reverse a number.
+3.armstrong number.
+the sum of all the digits in the number and power of the total no of digits.
+4.swapping withoutand with third variable.
+5.Strong number
+6.gcd,hcf
+7.highest and smallest digit

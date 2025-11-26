@@ -18,11 +18,12 @@ public class palindrome {
 		palindrome rs=new palindrome();
 		int reversed =rs.Reversenumber(num);
 		if(num==reversed) {
-			System.out.println("it is palindrome!");
+			System.out.println(reversed+"  is palindrome!");
 		}
 		else {
-			System.out.println("It is not palindrome!");
+			System.out.println(reversed+" is not palindrome!");
 		}
 	}
-
 }
+
+
