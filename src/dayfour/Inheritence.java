@@ -20,3 +20,4 @@ public class Inheritence extends Student{
 		System.out.println(college);
 	}
 }
+

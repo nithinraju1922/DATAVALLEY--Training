@@ -1,6 +1,6 @@
 package dayfour;
 
-public class Hierarchy extends Omnioras {
+public class Hierarchy  {
 	public static void main(String[] args) {
 		Omnioras h=new Omnioras();
 		h.type();
@@ -22,8 +22,9 @@ class Herbioras extends Animal{
 		System.out.println("cow,buffolo,deer,ox");
 	}
 }
-class Omnioras extends Herbioras{
+class Omnioras extends Animal{
 	void types() {
 		System.out.println("lion,tiger,dog,fox");
 	}
+	
 }

@@ -1,15 +1,16 @@
 package dayfour;
 
-public class Methodoverride extends B {
+public class Methodoverride {
+	public static void main(String[] args) {
+		
 	Methodoverride mr=new Methodoverride();
-	//int a=10;
-	//int b=20;
-//	A a=new A();
-//	System.out.println(a.add(10,5));
+	
 	B b=new B();
 	System.out.println(b.add(10,20));
 	System.out.println(b.add(20,10));
-	
+	A a=new A();
+	System.out.println(a.add(20,10));
+	}
 
 }
 class A{
@@ -23,3 +24,4 @@ class B extends A{
 		return a-b;
 	}
 }
+
