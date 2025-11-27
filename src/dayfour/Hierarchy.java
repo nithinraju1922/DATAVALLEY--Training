@@ -4,7 +4,7 @@ public class Hierarchy  {
 	public static void main(String[] args) {
 		Omnioras h=new Omnioras();
 		h.type();
-		h.herbivoras();
+		//h.herbioras();
 		h.types();
 		
 	}
@@ -18,7 +18,7 @@ class Animal{
 	}
 }
 class Herbioras extends Animal{
-	void herbivoras() {
+	void herbioras() {
 		System.out.println("cow,buffolo,deer,ox");
 	}
 }

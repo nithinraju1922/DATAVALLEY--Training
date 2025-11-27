@@ -21,4 +21,5 @@ class Work extends Operation{
 		return a-b;
 	}
 	
+	
 }
