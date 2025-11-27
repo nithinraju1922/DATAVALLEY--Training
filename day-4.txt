@@ -1,0 +1,48 @@
+CORE JAVA:
+difference between core java and java.
+core java:
+it is used to build business applications and web applications.
+java:
+it is used for programming.
+reason for partial oop concept is wrapping class.
+OOP 4 PILLERS.
+1.polymorphism:
+many forms.
+ex:student in different locations.
+i.runtime polymorphism or method overloading:same name with multiple parameters.
+ii.compile time polymorphism or method overriding:
+2.Inheritence.
+extract properties from parents to child.
+in java multiple inheritance is not supported for that interface is introduced.
+I.single Inheritence:
+in java there is only one public class for main class.
+always child class is main class and main method write here only.
+y inheritance:
+using of existing function and create new functionality.
+II.multilevel
+III. Hierarchy inheritence:
+combination of both single and multilevel inheritance .
+ii.Method overriding:
+3.Encapsulation.
+to prevent the direct access for the variables by using getter and setter.
+
+Abstraction:
+hide the unnecessary data.
+it is used for security reasons
+here method declaration is only allowed.concrete method
+OS.
+windows:userinterface
+Linux:only commands,it has more security.
+DBMS:
+db creation:create database ;
+to show db:show db;
+table create:create table tablename;
+to see table structure:desc tablename;
+insert:insert into table name.
+select *from tablename;
+update,set,alter:it is used to adding new colomun
+
+in SQL we build tables,here joins are used to access the data.
+in mangodb we build pipes,no need joins to access the data.
+relational:stored in tables and interlinked with eachother by using joins
+non-relational:stored

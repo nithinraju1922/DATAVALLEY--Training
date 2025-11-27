@@ -5,8 +5,10 @@ public class encapsulation {
 		Person p=new Person();
 		p.setName("Nithin");
 		p.setage(22);
-		System.out.println(p.getName());
-		System.out.println(p.getage());
+//		System.out.println(p.getName());
+//		System.out.println(p.getage());
+
+		
 		
 		
 	}
